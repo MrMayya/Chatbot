@@ -24,7 +24,9 @@ Fast and efficient document search using vector embeddings
 Clean and interactive Streamlit interface
 Context-aware and accurate responses
 No need for manual keyword searching
+
 🛠️ Installation & Setup
+
 pip install streamlit PyPDF2 langchain faiss-cpu openai
 
 Set your OpenAI API key:
